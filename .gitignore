@@ -6,6 +6,7 @@ web/app/upgrade
 web/app/uploads/*
 !web/app/uploads/.gitkeep
 !web/app/plugins/woocommerce-payments
+!web/app/plugins/wp-migrate-db-pro
 
 # WordPress
 web/wp
