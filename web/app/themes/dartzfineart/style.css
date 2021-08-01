@@ -1,0 +1,12 @@
+/*
+Theme Name: Storefront for dartzfineart.com
+Template: storefront
+*/
+
+.widget_search form::before, .widget_product_search form::before {
+	top: 2.5em;
+}
+
+.page-template-template-homepage .entry-title {
+	display: none;
+}
