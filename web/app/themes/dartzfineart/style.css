@@ -10,3 +10,7 @@ Template: storefront
 .page-template-template-homepage .entry-title {
 	display: none;
 }
+
+.page-template-template-homepage .hentry {
+	display: none;
+}
